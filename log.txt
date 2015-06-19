@@ -1,0 +1,4 @@
+map_reduce_test.py： python map reduce学习实例
+sort_by_name.py： 按照姓名排序，sort的用法
+output_pascal_triangle.py： 输出杨慧三角，yield的用法
+filter_palindromic_number.py： 筛选出回文数，filter的用法
