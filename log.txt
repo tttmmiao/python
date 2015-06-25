@@ -1,4 +1,5 @@
-map_reduce_test.py£º python map reduceÑ§Ï°ÊµÀı
-sort_by_name.py£º °´ÕÕĞÕÃûÅÅĞò£¬sortµÄÓÃ·¨
-output_pascal_triangle.py£º Êä³öÑî»ÛÈı½Ç£¬yieldµÄÓÃ·¨
-filter_palindromic_number.py£º É¸Ñ¡³ö»ØÎÄÊı£¬filterµÄÓÃ·¨
+map_reduce_test.pyï¼š python map reduceå­¦ä¹ å®ä¾‹
+sort_by_name.pyï¼š æŒ‰ç…§å§“åæ’åºï¼Œsortçš„ç”¨æ³•
+output_pascal_triangle.pyï¼š è¾“å‡ºæ¨æ…§ä¸‰è§’ï¼Œyieldçš„ç”¨æ³•
+filter_palindromic_number.pyï¼š ç­›é€‰å‡ºå›æ–‡æ•°ï¼Œfilterçš„ç”¨æ³•
+smtp_send_email.py: å‘é€é‚®ä»¶ï¼ˆæ³¨ï¼šæµ‹è¯•æ—¶ç”¨163å¯¹163é‚®ç®±ï¼Œå› ä¸ºqqé‚®ç®±ç”±äºè®¾ç½®åŸå› ä¼šå‡ºç°éªŒè¯é”™è¯¯ç­‰ï¼‰
