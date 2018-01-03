@@ -1,0 +1,5 @@
+map_reduce_test.py： python map reduce学习实例
+sort_by_name.py： 按照姓名排序，sort的用法
+output_pascal_triangle.py： 输出杨慧三角，yield的用法
+filter_palindromic_number.py： 筛选出回文数，filter的用法
+smtp_send_email.py: 发送邮件（注：测试时用163对163邮箱，因为qq邮箱由于设置原因会出现验证错误等）
